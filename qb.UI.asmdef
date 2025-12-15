@@ -1,0 +1,23 @@
+{
+    "name": "qb.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:324caed91501a9c47a04ebfd87b68794",
+        "GUID:3a61d50eb2789944892c7e6dec768114",
+        "GUID:0d9cbaf3be80ab747b04611087e429de",
+        "GUID:0e76e7a1a8ef87e4687329a737623788",
+        "GUID:ca5d7adc1aa3e8942bd4e1b4b962b0de",
+        "GUID:181671cfeb2521244b47d85664c98973",
+        "GUID:e33bedfd9ec9bc64aafe6dbb8b512b63",
+        "GUID:79e1ee9d6f4db9b419f01f407991cd27"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
