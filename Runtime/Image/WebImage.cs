@@ -198,7 +198,7 @@ namespace qb.UI
                         image.sprite = sprites[0];
                         indexAnimation = new LinearIndexAnimation(textureHandler.Delays,playMode: playMode);
                         indexAnimation.OnUpdate += IndexAnimation_OnUpdate;
-                        AnimationsManager.GetInstance<AnimationsManager>(true);//Create animation manager if needed!
+                        UpdatableManager.GetInstance<UpdatableManager>(true);//Create animation manager if needed!
                         indexAnimation.Play();
                         break;
                 }
