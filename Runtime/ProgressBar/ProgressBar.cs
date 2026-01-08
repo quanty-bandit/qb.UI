@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace qb.UI
 {
+    /// <summary>
+    /// Abstract base class for a UI progress bar component that manages and displays a normalized value.
+    /// </summary>
     public abstract class ProgressBar : MonoBehaviour
     {
         [OnValueChanged(nameof(UpdateUI))]

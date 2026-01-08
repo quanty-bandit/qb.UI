@@ -10,6 +10,10 @@ using UnityEngine.Events;
 using UnityEngine.UI;
 namespace qb.UI
 {
+    /// <summary>
+    /// Displays and manages images loaded from web URLs in a Unity UI Image component, supporting loading progress,
+    /// aspect ratio preservation, animated formats, and event callbacks.
+    /// </summary>
     public class WebImage : MonoBehaviour
     {
         [SerializeField,Required]
