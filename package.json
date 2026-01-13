@@ -12,8 +12,8 @@
     "com.quanty-bandit.threading": "https://github.com/quanty-bandit/qb.Threading.git",
     "com.quanty-bandit.textures": "https://github.com/quanty-bandit/qb.Textures.git",
     "com.quanty-bandit.events": "https://github.com/quanty-bandit/qb.Events.git",
-	"com.quanty-bandit.utility": "https://github.com/quanty-bandit/qb.Utility.git"
-	
+	"com.quanty-bandit.utility": "https://github.com/quanty-bandit/qb.Utility.git",
+	"com.quanty-bandit.editor-extensions": "https://github.com/quanty-bandit/qb.Editor-Extensions.git"
   },
   "keywords": [
     "Ui components",
