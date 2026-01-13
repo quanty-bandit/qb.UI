@@ -6,13 +6,13 @@
   "unity": "6000.2",
   "gitDependencies": {
 	"com.codewriter.triinspector": "https://github.com/codewriter-packages/Tri-Inspector.git",
-    "com.quanty-bandit.extensions": "https://github.com/quanty-bandit/qb.Extensions.git",
-    "com.quanty-bandit.pattern": "https://github.com/quanty-bandit/qb.Pattern.git",
-    "com.quanty-bandit.animation": "https://github.com/quanty-bandit/qb.Animation.git",
-    "com.quanty-bandit.threading": "https://github.com/quanty-bandit/qb.Threading.git",
-    "com.quanty-bandit.textures": "https://github.com/quanty-bandit/qb.Textures.git",
-    "com.quanty-bandit.events": "https://github.com/quanty-bandit/qb.Events.git",
-	"com.quanty-bandit.utility": "https://github.com/quanty-bandit/qb.Utility.git"
+    "com.quanty-bandit.qb.extensions": "https://github.com/quanty-bandit/qb.Extensions.git",
+    "com.quanty-bandit.qb.pattern": "https://github.com/quanty-bandit/qb.Pattern.git",
+    "com.quanty-bandit.qb.animation": "https://github.com/quanty-bandit/qb.Animation.git",
+    "com.quanty-bandit.qb.threading": "https://github.com/quanty-bandit/qb.Threading.git",
+    "com.quanty-bandit.qb.textures": "https://github.com/quanty-bandit/qb.Textures.git",
+    "com.quanty-bandit.qb.events": "https://github.com/quanty-bandit/qb.Events.git",
+	"com.quanty-bandit.qb.utility": "https://github.com/quanty-bandit/qb.Utility.git"
 	
   },
   "keywords": [
