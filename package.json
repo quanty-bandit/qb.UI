@@ -1,6 +1,6 @@
 {
   "name": "com.quanty-bandit.ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "qb.UI",
   "description": "UI components",
   "unity": "6000.2",
